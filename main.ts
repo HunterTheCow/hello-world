@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    music.playMelody("G A B C5 C D E F ", 60)
+    music.playMelody("G A B C5 C D E F ", 500)
     basic.showIcon(IconNames.Heart)
 })
 input.onButtonPressed(Button.B, function () {
